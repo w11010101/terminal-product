@@ -1,0 +1,28 @@
+*{
+    list-style: none;
+}
+
+/* my-theme*/
+.product1 .ivu-tabs-nav{
+    font-size:16px;
+    line-height: 16px;
+}
+.product1 .ivu-tabs-nav .ivu-tabs-tab{
+    padding:0 16px 20px;
+}
+.product1 .ivu-tabs-nav .ivu-tabs-tab-active{
+    color:#c4423e;
+}
+.product1 .ivu-tabs-nav .ivu-tabs-tab:hover{
+    color:#c4423e;
+}
+.product1 .ivu-tabs-tabpane{
+    font-size: 18px;
+    color:#4a4a4a;
+}
+.product1 .ivu-tabs-ink-bar{
+    display: none;
+}
+.product1 .ivu-tabs-bar{
+    margin-bottom: 20px;
+}
